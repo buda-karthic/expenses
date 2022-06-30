@@ -24,7 +24,7 @@ function App() {
       price: 12000,
     },
   ];
-  const date = ["Jan 10", "Feb 10", "Mar 10", "Apr 15", "May 12"];
+  const date = ["Jan 10", "Feb 12", "Mar 10", "Apr 15", "May 12"];
   return (
     <div className="App">
       <header className="App-header">My Expenses</header>
