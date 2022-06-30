@@ -1,0 +1,15 @@
+.expenseswrapper{
+    display: grid;
+    grid-template-columns: repeat(4,1fr );
+    gap:15px;
+
+    
+    .myexpenses{
+        border: 2px solid #000;
+    padding: 15px;
+    border-radius: 4px;
+    .title{
+        font-weight: bold;
+    }
+    }
+}
